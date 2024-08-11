@@ -1,0 +1,116 @@
+{
+  "items":[
+      {
+        "id": 1,
+        "title": "Invicta watch gold",
+        "class":"invicta",
+        "price": 10.99,
+        "image": "./assets/images/1-p.jpg"
+      },
+      {
+        "id": 2,
+        "title": "women's Rolex watch",
+        "class":"rolex",
+        "price": 14.99,
+        "image": "./assets/images/2-p.jpg"
+      },
+      {
+        "id": 3,
+        "title": "Diesel watch black",
+        "class":"diesel",
+        "price": 7.99,
+        "image": "./assets/images/3-p.jpg"
+      },
+      {
+        "id": 4,
+        "title": "Invicta watch gold",
+        "class":"invicta",
+        "price": 11.99,
+        "image": "./assets/images/4-p.jpg"
+      },
+      {
+        "id": 5,
+        "title": "Alexa couple",
+        "class":"alexa",
+        "price": 4.99,
+        "image": "./assets/images/5-p.jpg"
+      },
+      {
+        "id": 6,
+        "title": "black watch",
+        "class":"diesel",
+        "price": 23.99,
+        "image": "./assets/images/6-p.jpg"
+      },
+      {
+        "id": 7,
+        "title": "white watch product",
+        "class":"alexa",
+        "price": 42.99,
+        "image": "./assets/images/7-p.jpg"
+      },
+      {
+        "id": 8,
+        "title": "smart watch black",
+        "class":"smart",
+        "price": 24.99,
+        "image": "./assets/images/8-p.jpg"
+      },
+      {
+        "id": 9,
+        "title": "beige smart watch",
+        "class":"smart",
+        "price": 24.99,
+        "image": "./assets/images/9-p.jpg"
+      }
+      ,   {
+        "id": 10,
+        "title": "colorful watch",
+        "class":"invicta",
+        "price": 24.99,
+        "image": "./assets/images/10-p.jpg"
+      }
+      ,   {
+        "id": 11,
+        "title": "square watch",
+        "class":"alexa",
+        "price": 24.99,
+        "image": "./assets/images/11-p.jpg"
+      }
+      ,   {
+        "id": 12,
+        "title": "gold watch Alexa",
+        "class":"alexa",
+        "price": 24.99,
+        "image": "./assets/images/12-p.jpg"
+      }
+      ,   {
+        "id": 13,
+        "title": "woman's watch Alexa",
+        "class":"alexa",
+        "price": 24.99,
+        "image": "./assets/images/13-p.jpg"
+      }
+      ,   {
+        "id": 14,
+        "title": "silver watch",
+        "class":"rolex",
+        "price": 24.99,
+        "image": "./assets/images/14-p.jpg"
+      }
+      ,   {
+        "id": 15,
+        "title": "men's watch",
+        "class":"invicta",
+        "price": 24.99,
+        "image": "./assets/images/15-p.jpg"
+      }
+      ,   {
+        "id": 16,
+        "title": "Diesel watch",
+        "class":"diesel",
+        "price": 24.99,
+        "image": "./assets/images/16-p.jpg"
+      }
+    ]
+}
